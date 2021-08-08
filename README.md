@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BerserkerMother
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Transformer model
+- 👀 I’m interested in AI and Mathematics
+- 🌱 I’m currently working on VQA problem.
 
 
 <!---
