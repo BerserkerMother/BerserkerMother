@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BerserkerMother
 - 👀 I’m interested in AI and Mathematics
-- 🌱 I’m currently working on VQA problem.
+- 🌱 I’m currently working on Video Summarization problem.
 
 
 <!---
